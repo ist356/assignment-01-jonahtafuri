@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jonah Tafuri
+Sudent Email:  jttafuri@syr.edu
 
 ## Instructions
 
