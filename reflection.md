@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I have been using a lot of R so relearning syntax since last class I did python in (application programming for info systems). Thankfully I struggle more with that then the logic side. Besides needing to occasionlly use ChatGPT for things like asking it how to initialize lists and how to append things to them I did this assignment fairly easily. While loops and if statemets use slightly different syntax too, but I am getting more used to that. I remembered using the % operator before, but needed to look that up again when writing the script that checks for entered values. 
